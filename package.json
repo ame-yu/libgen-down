@@ -1,0 +1,23 @@
+{
+  "name": "libgen-down",
+  "version": "1.0.0",
+  "description": "Libgen downloader based on playwright",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^1.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ame-yu/libgen-down.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ame-yu/libgen-down/issues"
+  },
+  "homepage": "https://github.com/ame-yu/libgen-down#readme"
+}
